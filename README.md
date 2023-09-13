@@ -1,5 +1,5 @@
 # DeafPeopleNameRecognition
-Mauro Monti and Dilpreet Singh project for Hardware Architectures For Embedded and Edge AI
+Mauro Monti and Dilpreet Singh's project for Hardware Architectures For Embedded and Edge AI
 
 This project has been implemented with the use of Edge Impulse and Arduino. It is based on the keyword spotting of "Marvin" word.
 More in particular it is able to recognize different users calling the same name.
